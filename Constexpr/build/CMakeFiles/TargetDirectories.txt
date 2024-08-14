@@ -1,0 +1,3 @@
+C:/Users/care/Desktop/C++_Research/Constexpr/build/CMakeFiles/my_project.dir
+C:/Users/care/Desktop/C++_Research/Constexpr/build/CMakeFiles/edit_cache.dir
+C:/Users/care/Desktop/C++_Research/Constexpr/build/CMakeFiles/rebuild_cache.dir

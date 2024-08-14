@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/care/Desktop/C++_Research/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DBENCHMARK_STATIC_DEFINE @CMakeFiles/my_project.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\my_project.dir\\src\\move_advanced.cpp.obj -c C:\\Users\\care\\Desktop\\C++_Research\\Move_Semantics\\src\\move_advanced.cpp",
+  "file": "C:/Users/care/Desktop/C++_Research/Move_Semantics/src/move_advanced.cpp",
+  "output": "CMakeFiles/my_project.dir/src/move_advanced.cpp.obj"
+}
+]

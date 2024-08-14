@@ -1,0 +1,3 @@
+C:/Users/care/Desktop/C++_Research/Smart_Ptrs/CMakeFiles/my_project.dir
+C:/Users/care/Desktop/C++_Research/Smart_Ptrs/CMakeFiles/edit_cache.dir
+C:/Users/care/Desktop/C++_Research/Smart_Ptrs/CMakeFiles/rebuild_cache.dir
