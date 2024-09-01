@@ -1,15 +1,18 @@
 #include<memory>
-class A
+class Assigner
 {
 public:
-    int x = 5, y = 10;
-    A(int a,int b):x(a),y(b){};
+    int variable_1 = 5, variable_2 = 10;
+
+    Assigner() = default;
+
+    Assigner(int param_1,int param_2):variable_1(param_1),variable_2(param_2){};
+
+    ~Assigner() = default;
 };
 
 int main(){
-    A* ptr = new A(1,2);
-    {
-        std::unique_ptr<A> ptr_1(new A(2,3));
-    }
+    Assigner* ptr = new Assigner(1,2);
+    std::unique_ptr<Assigner> ptr_1 = std::make_unique<Assigner>(2,3);
     return 0;
 }
